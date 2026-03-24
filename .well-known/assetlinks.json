@@ -1,8 +1,0 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "io.github.zeromess1.twa",
-        "sha256_cert_fingerprints": ["FE:B5:79:88:23:89:DE:83:78:E3:0F:B8:BE:57:87:2F:72:DD:35:7E:A3:DC:FC:B8:CA:C5:5D:72:DB:A1:2B:A5"]
-      }
-    }]
